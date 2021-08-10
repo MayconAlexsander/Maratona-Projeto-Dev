@@ -1,3 +1,11 @@
+#### Description by Me
+# Projeto Dev: Kenziegram
+
+Repositório do projeto *Kenziegram*, desenvolvido durante o evento **Projeto Dev** da **Kenzie Academy**.
+
+#
+
+#### Description by @KenzieAcademy
 # Projeto Dev: Aulas
 
 Respositório contendo aulas do dia 1 e 2, ministradas no curso Projeto Dev.
